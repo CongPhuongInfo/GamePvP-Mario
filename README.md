@@ -1,5 +1,9 @@
 # Phieu Luu Ong Nuoc - Co-op Online
 
+<p align="center">
+  <img src="GameMario-logo.png" width="800">
+</p>
+
 Game platformer 2 nguoi choi (nhay dau quai, thu thap xu, nem lua) chuyen the tu du an
 `GamePvP-Contra`, tai su dung nguyen ven tang mang P2P (`NetworkPeer.vb`, giao thuc
 STATE/INPUT pipe-delimited, host authoritative). Nhan vat, quai va ten goi trong game
